@@ -3,3 +3,5 @@ Our game is called Totally Orginal game. The general concept of the game is rath
 
 
 # Developers
+Aiden Babauta
+Grady Allen
